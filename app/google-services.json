@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893554529537",
+    "project_id": "hsbs-fixit",
+    "storage_bucket": "hsbs-fixit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893554529537:android:5e0b33cb7e1c3911b53700",
+        "android_client_info": {
+          "package_name": "com.example.hsbs_fixit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4emCVWLlHhRj-AMSQvaq4smreZQM9Cak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893554529537:android:551442bc977887b4b53700",
+        "android_client_info": {
+          "package_name": "com.example.notesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4emCVWLlHhRj-AMSQvaq4smreZQM9Cak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
